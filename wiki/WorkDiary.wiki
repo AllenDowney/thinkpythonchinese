@@ -1,5 +1,5 @@
 #summary My work diary.
-#labels Phase-Implementation
+#labels Phase-Implementation,Featured
 
 = 我的工作日誌（半定期更新） =
 
