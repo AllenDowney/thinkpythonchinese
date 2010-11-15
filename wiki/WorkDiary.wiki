@@ -1,0 +1,6 @@
+#summary My work diary.
+#labels Phase-Implementation
+
+= 我的工作日誌（半定期更新） =
+
+*2010-11-16* 上個週末加上今晚，將前言與第一章譯完.目前在與Latex與utf8的這個配合在改版源文件。Latex比我想像的要複更雜（也更強大）。
